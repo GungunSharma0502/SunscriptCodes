@@ -1,0 +1,26 @@
+.navbar{
+    background-color: black;
+    height: 3rem;
+}
+.logo {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top:10px;
+  }
+.navbar-container{
+    display: flex;
+    justify-content: center;
+}
+.navbaritems {
+
+    list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.navbaritems a {
+    color: white;
+    text-decoration: none;
+    
+  }
